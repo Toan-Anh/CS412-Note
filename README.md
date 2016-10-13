@@ -19,7 +19,7 @@ The purpose of Computer Vision
 - Reconstruct 3D objects from 2D images or video.
 
 
-![Figure 1](https://github.com/Toan-Anh/CS412-Note/Figures/Figure 1.png)
+![Figure 1](https://github.com/Toan-Anh/CS412-Note/blob/master/Figures/Figure 1.png)
 
 
 
